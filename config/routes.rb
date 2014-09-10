@@ -1,9 +1,10 @@
-# Rails.application.routes.draw do
-#   get 'urls/new'
-#   get 'urls/create'
-
 Rails.application.routes.draw do
   devise_for :users
-  resources :urls, only: [:new, :create]
-  root to: 'urls#new'
+  resources :urls
+  root 'urls#index'
+
+
+  # get "/auth/:provider/callback", to: "sessions#create"
+  post "/create", to: "devise/sessions#create"
 end
+
