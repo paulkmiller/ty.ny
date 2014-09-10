@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+
+gem rails_12factor-0.0.2
 # for OAuth shiz
 gem 'devise'
 # stealing their API's since this morning.
