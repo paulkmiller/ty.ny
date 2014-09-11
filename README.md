@@ -1,8 +1,5 @@
-### README
 
-### Ty.Ny Url Shortener
-
-## GA WDI DC August 2014, Project 1
+## GA WDI DC August 2014, Project 1  -- Ty.Ny Url Shortener
 
 ## Overview
 
