@@ -1,10 +1,10 @@
-== README
+### README
 
-== Ty.Ny Url Shortener
+### Ty.Ny Url Shortener
 
-### GA WDI DC August 2014, Project 1
+## GA WDI DC August 2014, Project 1
 
-### Overview
+## Overview
 
 * **Ty.Ny** is a URL shortener with basic user functions. The overall goal was to create a functional shortener that would route back to the original link using Bitly's API. Having pivoted between three different project ideas, I settled on this with roughly two days worth of time from conception to this working model.
 
