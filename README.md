@@ -6,7 +6,7 @@
 
 ### Overview
 
-*Ty.Ny* is a URL shortener with basic user functions. The overall goal was to create a functional shortener that would route back to the original link using Bitly's API. Having pivoted between three different project ideas, I settled on this with roughly two days worth of time from conception to this working model.
+**Ty.Ny** is a URL shortener with basic user functions. The overall goal was to create a functional shortener that would route back to the original link using Bitly's API. Having pivoted between three different project ideas, I settled on this with roughly two days worth of time from conception to this working model.
 
 *Future Plans* include adding User functionality beyond signing in and signing out-- e.g. user's will be able to reference their previous links on their user profiles and track how many times each link was clicked. 
 
